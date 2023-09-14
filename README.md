@@ -1,8 +1,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">I am Tarun Gautam</h3>
+<img width="400" src="![image](https://github.com/contact-tarun/contact-tarun/assets/144775789/aa3711ed-c386-4930-b3d5-7998a5b710af)
+">
 - 🌱 I’m currently learning **DJango, ReactJs**
 
-- 👨💻 All of my projects are available at [https://contact-tarun.github.io/plantEta.com/](https://contact-tarun.github.io/plantEta.com/)
 
 - 💬 Ask me about **HTML, CSS, JSS, C++, Python**
 
